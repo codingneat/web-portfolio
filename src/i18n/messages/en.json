@@ -1,0 +1,85 @@
+{
+  "Navbar": {
+    "fr": "French",
+    "en": "English",
+    "label": "Language",
+    "skills": "Skills",
+    "experience": "Expérience"
+  },
+  "Hero": {
+    "name": "Daniel Vergara Echeverri",
+    "description": "A web developer for 10 years, I discovered my passion for programming at university and fully invested in it. Specializing in Frontend with Angular, React and Vue.js, my curiosity also led me to explore other technologies like Node.js, MongoDB, Python, C#, AWS or Docker, both in business and as an autodidact."
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "link": "Go back to home"
+  },
+  "Skills": {
+    "title": "Technical Skills",
+    "sections": {
+      "languages": "Programming Languages",
+      "DBMS": "DBMS",
+      "frameworks": "Frameworks and Packages"
+    }
+  },
+  "Experience": {
+    "title": "Work experience",
+    "jobs": {
+      "toumoro": {
+        "position": "Fullstack Developer",
+        "company": "Toumoro",
+        "place": "Quebec City, Canada",
+        "duration": "November 2022 to today",
+        "description": {
+          "description1": "React and NextJS developer of web applications using technologies such as Redux and Tailwind.",
+          "description2": "Design of interactive modules using React, Typescript, and OpenLayers to integrate map layers, precise georeferencing, and satellite data visualization.",
+          "description3": "Developing serverless applications on AWS, using AppSync to expose GraphQL APIs and DynamoDB as the database."
+        }
+      },
+      "zemoga": {
+        "position": "JavaScript Web Developer",
+        "company": "Zemoga Inc.",
+        "place": "Bogotá, Colombia",
+        "duration": "July 2020 – May 2022",
+        "description": {
+          "description1": "JavaScript developer of web applications using technologies such as NodeJs, VueJs, Webpack, and Storybook.",
+          "description2": "Python developer focused on application development using Jupyter Lab as a foundation.",
+          "description3": "Leader of a study group focused on learning AWS."
+        }
+      },
+      "psl": {
+        "position": "Angular Web Developer",
+        "company": "PSL - now part of Perficient",
+        "place": "Bogotá, Colombia",
+        "duration": "October 2017 – July 2020",
+        "description": {
+          "description1": "FE Technical Leader in Web Application Development using Angular 7, RxJs, NgRx.",
+          "description2": "Developer of several web applications using Angular 4-6, RxJs, NgRx, Sass and functional and reactive programming.",
+          "description3": "Participation in international client development teams using agile methodologies such as SCRUM."
+        }
+      },
+      "itmg": {
+        "position": "Fullstack Developer",
+        "company": "ITMG Digital",
+        "place": "Bogotá, Colombia",
+        "duration": "September 2016 – September 2017",
+        "description": {
+          "description1": "Fullstack Developer in Larnia application using technologies like ASP.NET MVC, SQL and ReactJS.",
+          "description2": "There was support for the customer in defining the guidelines and also support for the Azure infrastructure.",
+          "description3": "C# and .Net developer of devops solutions for Windows."
+        }
+      },
+      "885": {
+        "position": "Fullstack Developer",
+        "company": "8-85 More Ideas For All",
+        "place": "Bogotá, Colombia",
+        "duration": "April 2014 – August 2015",
+        "description": {
+          "description1": "Developer in several PHP applications in the medical, administrative and real estate fields using PHP5, Laravel, JQuery technologies",
+          "description2": "Worked in projects using MEAN Stack, MongoDB, AngularJs et Sails.js.",
+          "description3": "Website development with Wordpress."
+        }
+      }
+    }
+  }
+}

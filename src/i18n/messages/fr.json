@@ -1,0 +1,86 @@
+{
+  "Navbar": {
+    "fr": "Français",
+    "en": "Anglais",
+    "label": "Langue",
+    "skills": "Skills",
+    "experience": "Expérience"
+  },
+  "Hero": {
+    "name": "Daniel Vergara Echeverri",
+    "description": "Développeur web depuis 10 ans, j’ai découvert ma passion pour la programmation à l’université et m’y suis pleinement investi. Spécialisé en Frontend avec Angular, React et Vue.js, ma curiosité m’a aussi conduit à explorer d’autres technologies comme Node.js, MongoDB, Python, C#, AWS ou Docker, tant en entreprise qu’en autodidacte."
+  },
+  "NotFound": {
+    "title": "Page Non Trouvée",
+    "link": "Retourner à l'accueil"
+  },
+  "Skills": {
+    "title": "Compétences techniques",
+    "sections": {
+      "languages": "Languages de Programmation",
+      "DBMS": "DBMS",
+      "frameworks": "Frameworks et Packages"
+    }
+  },
+  "Experience": {
+    "title": "Expérience Professionnelle",
+    "at": "à",
+    "jobs": {
+      "toumoro": {
+        "position": "Développeur Fullstack",
+        "company": "Toumoro",
+        "place": "Ville de Québec, Canada",
+        "duration": "Novembre 2022 - Aujourd'hui",
+        "description": {
+          "description1": "Développeur React et Nextjs d’applications web utilisant des technologies telles que Redux, Tailwind.",
+          "description2": "Conception des modules interactifs utilisant React, Typescript et OpenLayers pour intégrer des couches cartographiques, du géoréférencement précis et la visualisation de données satellitaires.",
+          "description3": "Développement d’applications serverless sur AWS, en utilisant AppSync pour exposer des API GraphQL et DynamoDB comme base de données"
+        }
+      },
+      "zemoga": {
+        "position": "Développeur Web Javascript",
+        "company": "Zemoga Inc.",
+        "place": "Bogotá, Colombie",
+        "duration": "Juillet 2020 – Mai 2022",
+        "description": {
+          "description1": "Développeur Javascript d’applications web utilisant des technologies telles que NodeJs, VueJs, Webpack, Storybook.",
+          "description2": "Développeur Python orienté au développement d'application utilisant Jupyter Lab comme socle.",
+          "description3": "Leader d’un groupe d’étude orienté à l’apprentissage d’AWS."
+        }
+      },
+      "psl": {
+        "position": "Développeur Web Angular",
+        "company": "PSL - now part of Perficient",
+        "place": "Bogotá, Colombie",
+        "duration": "Octobre 2017 – Juillet 2020",
+        "description": {
+          "description1": "Leader technique FE dans le développement d'applications Web utilisant Angular 7, RxJs, NgRx.",
+          "description2": "Développeur de plusieurs applications web utilisant Angular 4-6, RxJs, NgRx, Sass et programmation fonctionnelle et réactive.",
+          "description3": "Participation aux équipes de développement de clients internationaux utilisant des méthodologies agiles telles que SCRUM."
+        }
+      },
+      "itmg": {
+        "position": "Développeur Fullstack",
+        "company": "ITMG Digital",
+        "place": "Bogotá, Colombie",
+        "duration": "Septembre 2016 – Septembre 2017",
+        "description": {
+          "description1": "Développeur Fullstack dans l'application Larnia utilisant des technologies comme ASP.NET MVC, SQL et ReactJS. ",
+          "description2": "Il y a eu soutien au client pour la définition des directives et aussi support de l'infrastructure Azure. ",
+          "description3": "Développeur C# et .Net de solutions devops pour Windows."
+        }
+      },
+      "885": {
+        "position": "Développeur Fullstack",
+        "company": "8-85 More Ideas For All",
+        "place": "Bogotá, Colombie",
+        "duration": "Avril 2014 – Août 2015",
+        "description": {
+          "description1": "Développeur dans plusieurs applications PHP dans les domaines médical, administratif et immobilier.",
+          "description2": "Élaboration des projets utilisant MEAN Stack, MongoDB, AngularJs et Sails.js.",
+          "description3": "Développement de websites avec Wordpress."
+        }
+      }
+    }
+  }
+}
