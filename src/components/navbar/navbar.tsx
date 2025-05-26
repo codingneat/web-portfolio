@@ -4,6 +4,7 @@ import { SquareCode } from "lucide-react";
 import Link from "next/link";
 
 import LocaleSwitcher from "./locale-switcher";
+import MobileMenu from "./mobile-menu";
 import SectionLinks from "./section-links";
 import ThemeSwitcher from "./theme-switcher";
 
@@ -18,6 +19,7 @@ export function Navbar() {
         <SectionLinks />
         <LocaleSwitcher />
         <ThemeSwitcher />
+        <MobileMenu />
       </nav>
     </header>
   );

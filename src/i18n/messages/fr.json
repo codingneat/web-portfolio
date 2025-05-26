@@ -4,7 +4,8 @@
     "en": "Anglais",
     "label": "Langue",
     "skills": "Compétences",
-    "experience": "Expérience"
+    "experience": "Expérience",
+    "projects": "Projets"
   },
   "Hero": {
     "name": "Daniel Vergara Echeverri",
@@ -20,6 +21,15 @@
       "languages": "Languages de Programmation",
       "DBMS": "DBMS",
       "frameworks": "Frameworks et Packages"
+    }
+  },
+  "Projects": {
+    "title": "Projets",
+    "projects": {
+      "json_form_builder": {
+        "title": "Json Form Builder",
+        "description": "Application basée sur Angular qui génère dynamiquement des formulaires à partir d'une invite JSON. Il permet aux utilisateurs de saisir des données via le formulaire généré et renvoie les données au format JSON lors de la soumission."
+      }
     }
   },
   "Experience": {

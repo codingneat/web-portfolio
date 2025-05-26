@@ -4,7 +4,8 @@
     "en": "English",
     "label": "Language",
     "skills": "Skills",
-    "experience": "Experience"
+    "experience": "Experience",
+    "projects": "Projects"
   },
   "Hero": {
     "name": "Daniel Vergara Echeverri",
@@ -20,6 +21,15 @@
       "languages": "Programming Languages",
       "DBMS": "DBMS",
       "frameworks": "Frameworks and Packages"
+    }
+  },
+  "Projects": {
+    "title": "Projects",
+    "projects": {
+      "json_form_builder": {
+        "title": "Json Form Builder",
+        "description": "Angular-based application that dynamically generates forms from a JSON prompt. It allows users to input data through the generated form and returns the data in JSON format upon submission."
+      }
     }
   },
   "Experience": {

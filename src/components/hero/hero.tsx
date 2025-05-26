@@ -11,7 +11,7 @@ export function Hero() {
       <div className='flex flex-col md:flex-row md:justify-between md:space-y-0'>
         <div className='mt-8 flex flex-col justify-center space-y-4 md:mt-0 md:w-2/3'>
           <div>
-            <h1 className='text-primary/90 dark:text-primary text-4xl font-bold tracking-tight'>
+            <h1 className='text-primary/90 dark:text-primary mb-2 text-4xl font-bold tracking-tight'>
               {t("name")}
             </h1>
             <div>{t("description")}</div>
